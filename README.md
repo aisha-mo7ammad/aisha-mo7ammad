@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aisha-mo7ammad
+- 👀 I’m interested in Web developer
+- 🌱 I’m currently learning Java script & Php
+- 💞️ I’m looking to collaborate on any web project
+- 📫 you can reach me at email - aisha.m.boodai@gmail.com
